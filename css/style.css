@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lobster&family=Montserrat+Alternates&family=Ubuntu&display=swap');
+body {
+    background-color: #393E46;
+    text-align: center;
+    color: #4ECCA3;
+}
+
+h1 {
+    font-size: 8rem;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    margin-bottom: 0;
+}
+
+.container {
+    font-family: 'Indie Flower', cursive;
+    
+}
+
+.player {
+    position: relative;
+    display: inline-block;
+}
+
+img {
+    width: 70%;
+}
+
+p {
+    font-family: 'Ubuntu';
+}
+h2 {
+    font-size: 2rem;
+}
